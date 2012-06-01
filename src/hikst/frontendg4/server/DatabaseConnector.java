@@ -69,7 +69,6 @@ public class DatabaseConnector {
 			}
 		}
 	}
-
 	
 	public static Connection getDBC(){
 		if (openDatabaseConnection()){
